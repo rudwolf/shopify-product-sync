@@ -22,3 +22,8 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+*.crt
+*.key
+*.pem
+*.csr
+package-lock.json
